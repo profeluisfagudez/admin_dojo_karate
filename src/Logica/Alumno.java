@@ -3,6 +3,7 @@ package Logica;
 /**
  *
  * @author Luis Eduardo Fagúndez Pedrozo
+ * @version 0.01
  */
 
 public class Alumno extends Socio{
